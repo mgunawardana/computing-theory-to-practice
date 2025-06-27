@@ -176,7 +176,7 @@ If you made it this far — thanks for reading.
  
 This writeup is something I created to really understand how computers work at the lowest level before jumping into cybersecurity head first. I’m not an expert yet, so if you spot any mistakes, outdated info, or just wanna talk tech — feel free to reach out.
 
-Connect with me on LinkedIn:[Check out my profile](https://www.linkedin.com/in/mihindi-gunawardana-110866370/)
+Connect with me on LinkedIn: [Check out my profile](https://www.linkedin.com/in/mihindi-gunawardana-110866370/)
 
 Also, massive shoutout to TCM Security for their Practical Help Desk course.
 That course helped me finally get it — not just memorize it.
